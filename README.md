@@ -4,10 +4,10 @@ I am an enthusiastic and passionate full-stack developer who enjoys learning new
 
 ## Projects
 
-| Name                         | Description            | Tech/tools         | | link |
-| ---------------------------- | -----------------      | -----------------  | | -----|
-| Acebook                      | Facebook clone crud app|
-                               created in a group of 3 other students
+| Name                         | Description            | Tech/tools         |
+| ---------------------------- | -----------------      | -----------------  |
+| Acebook                      | Facebook clone crud app created in a group of 4 students. it helped to explore and learn the principles of MVC and crud operations
+                            
 
           
                                   
