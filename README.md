@@ -6,7 +6,8 @@ I am an enthusiastic and passionate full-stack developer who enjoys learning new
 
 | Name                         | Description            | Tech/tools         |
 | ---------------------------- | -----------------      | -----------------  |
-| Acebook                      | Facebook clone crud
+| Acebook                      | Facebook clone crud app
+ created in a group of 3 other students
 
           
                                   
