@@ -6,10 +6,7 @@ I am an enthusiastic and passionate full-stack developer who enjoys learning new
 
 | Name                         | Description            | Tech/tools         |
 | ---------------------------- | -----------------      | -----------------  |
-| Acebook       
-               | basic facebook clone group
-project to learn and explore the principles of mvc and crud
-operations | Rails , Postgresql , bootstrap ,rspec |
+| Acebook                      | Facebook clone crud
 
           
                                   
