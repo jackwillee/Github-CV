@@ -4,12 +4,14 @@ I am an enthusiastic and passionate full-stack developer who enjoys learning new
 
 ## Projects
 
-| Name                         | Description       | Tech/tools         |
-| ---------------------------- | ----------------- | -----------------  |
-| Acebook                      | facebook clone    | Rails, Rspec       |
-| Bank                         |  tech test        | Ruby, Rspec        |
-| Chitter                      | twitter clone     | Rails, bootstrap   |
-| Thermostat                   | App to learn JS   | Javascript, Jasmine|
+| Name                         | Description            | Tech/tools         |
+| ---------------------------- | -----------------      | -----------------  |
+| Acebook                      | basic facebook clone   | Rails , Postgresql,
+                                                         Boostrap, Rspec
+                                group project helped to 
+                                improve knowledge of crud
+                                and MVC.
+                                  
 
 ## Work Experience
 
