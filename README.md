@@ -8,6 +8,7 @@ I am an enthusiastic and passionate full-stack developer who enjoys learning new
 | ---------------------------- | -----------------      | -----------------  |
 | Acebook                      | Facebook clone crud app created in a group of 4 students. it helped to explore and learn the principles of MVC and crud | Rails, Rspec , postgresql and bootstrap
 | Bank                         | Tech test to practice test-driven-development | Ruby and Rspec |
+| Seasonal Regional            | Final group project made over 2 weeks with 3 other students | Vue.js , SQL , CSS , HTML |
 
                             
 
