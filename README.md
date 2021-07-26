@@ -33,7 +33,7 @@ Sales Co-ordinator
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### British School of Barcelona (2011 to 2013)
+#### British School of Barcelona (2011 to 2013) A levels
 -- History --
 -- ICT --
 -- Spanish --
